@@ -1,4 +1,4 @@
-## Chili core 👋
+## Chili code🌶️s
 
 Here are some ideas to get you started:
 
