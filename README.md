@@ -1,4 +1,4 @@
-## Chili code🌶️s
+## 🍌 Hungry Ape 🍌
 
 Here are some ideas to get you started:
 
