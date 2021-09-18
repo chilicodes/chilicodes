@@ -1,12 +1,23 @@
-## 🍌 Hungry Ape 🍌
+## Hi, I am Hungry Ape 🍌
+I'm a Full-Stack Developer.
 
-Here are some ideas to get you started:
+## A little more about me...
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+```javascript
+const anmol = {
+    pronouns: "He" | "Him",
+    code: ["Javascript", "Typescript", "C#"],
+    askMeAbout: ["web dev", "tech", "app dev"],
+    technologies: {
+        frontEnd: {
+            js: ["Vue", "React", "Nuxt", "Next"],
+            css: ["Tailwind", "Bootstrap"]
+        },
+        backEnd: ["Node", "ASP.NET", "GraphQL"],
+        devOps: ["Azure"],
+        databases: ["SQL Server", "PostgreSQL", "SQLite"],
+        misc: ["Firebase", "Puppeteer", "Selenium"]
+    },
+    fact: "First solve the problem, then write the code"
+};
+```
