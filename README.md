@@ -1,4 +1,4 @@
-## Hi, I am Hungry Ape 🍌
+## 🍌 Hi, I am Hungry Ape
 I'm a Full-Stack Developer.
 
 ## A little more about me...
@@ -6,18 +6,23 @@ I'm a Full-Stack Developer.
 ```javascript
 const anmol = {
     pronouns: "He" | "Him",
-    code: ["Javascript", "Typescript", "C#"],
-    askMeAbout: ["web dev", "tech", "app dev"],
+    code: ["Javascript", "Typescript", "HTML", "CSS", "CSharp"],
     technologies: {
         frontEnd: {
             js: ["Vue", "React", "Nuxt", "Next"],
-            css: ["Tailwind", "Bootstrap"]
+            css: ["Tailwind", "Bulma", "Bootstrap"]
         },
-        backEnd: ["Node", "ASP.NET", "GraphQL"],
+        backEnd: {
+            js: ["Node", "GraphQL"],
+            csharp: ["Asp.net Core"]
+        },
         devOps: ["Azure"],
-        databases: ["SQL Server", "PostgreSQL", "SQLite"],
-        misc: ["Firebase", "Puppeteer", "Selenium"]
+        databases: ["SQLServer", "PostgreSQL", "SQLite"],
+        misc: ["Firebase", "Puppeteer", "Selenium", "Cypress"]
     },
     fact: "First solve the problem, then write the code"
 };
 ```
+
+## 🍌 Some stats
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hungryape&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/hungryape)
