@@ -4,7 +4,7 @@ I'm a Full-Stack Developer.
 ## A little more about me...
 
 ```javascript
-const anmol = {
+const aboutMe = {
     pronouns: "He" | "Him",
     code: ["Javascript", "Typescript", "HTML", "CSS", "CSharp"],
     technologies: {
