@@ -1,5 +1,5 @@
-## 🍌 Hi, I am Hungry Ape
-I'm a Full-Stack Developer.
+## 🍌 Welcome to my GitHub profile
+Hi 👋, I am Hungry Ape. I'm a Full-Stack Developer.
 
 ## A little more about me...
 
@@ -24,5 +24,4 @@ const aboutMe = {
 };
 ```
 
-## 🍌 Some stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hungryape&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/hungryape)
+<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hungryape&theme=dark&hide_border=true&layout=compact">
